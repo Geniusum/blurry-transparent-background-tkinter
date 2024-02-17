@@ -1,5 +1,6 @@
 # Blurry Transparent Background Tkinter
 ![Blurry transparent background on Tkinter demo](assets/demo.png)
+
 This showcase is a code to make a blurry transparent background on tkinter on multiples windows versions and also other os. 
 > When you move the window, the blur effect will be delayed because pillow is slow.
 
